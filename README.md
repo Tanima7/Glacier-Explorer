@@ -165,3 +165,8 @@ Advanced Export Options: GeoTIFF/CSV downloads
 Educational Mode: Interactive teaching workflows
 
 LLM-Augmented Pipelines: Extend the AI to automate dataset search, preprocessing, and workflow orchestration — aligning with LLM-assisted geospatial analysis research
+
+
+### 📜 License
+---
+This project is licensed under the MIT License.

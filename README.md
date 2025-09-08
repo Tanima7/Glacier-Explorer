@@ -18,8 +18,7 @@ This tool provides a high-level interface for **visualizing climate–glacier in
   - [Configuration Steps](#configuration-steps)  
   - [Requirements File](#requirements-file)  
   - [Launching the App](#launching-the-app)  
-- [Future Research & Development](#-future-research--development)  
-- [Project Details](#-project-details)  
+- [Future Research & Development](#-future-research--development) 
 
 ---
 
